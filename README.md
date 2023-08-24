@@ -1,5 +1,5 @@
 # nanorobots
-This project involved the process of illuminating nanorobots in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬. 
+This project goal was the illumination of nanorobots in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬. 
 
 There are three components to this project:
 1. Investigating the Gerchberg-Saxton Algorithm for the retrieval of phase information from intensity measurements and enabling the patterning of laser light.
